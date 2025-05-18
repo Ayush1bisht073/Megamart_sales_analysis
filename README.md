@@ -2,7 +2,6 @@
 This is MYSQL project  for Megamart sales analysis of year 2022.
 
 
-#Megamart Sales Data Analysis
 ## About
 
 This project aims to explore the Megamart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. 
