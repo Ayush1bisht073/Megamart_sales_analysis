@@ -1,5 +1,5 @@
 # Megamart_sales_analysis
-This is MYSQL project  for Megamart sales analysis of year 2022.
+This is MySQL project  for Megamart sales analysis of year 2022.
 
 
 ## About
